@@ -1,6 +1,8 @@
 # DKAN
 DKAN software management
 
+https://github.com/CMAP-SLG
+
 Nucivic DKAN development
 https://github.com/nucivic
 
